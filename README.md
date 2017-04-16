@@ -1,5 +1,7 @@
 # River-Mountain  Python for Data Analysis   Study Notes  2017年03月28日
 
+# Test for github after gitlab set 2017年04月16日
+
 # pydata-book
 Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
 
